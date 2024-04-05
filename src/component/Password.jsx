@@ -13,7 +13,7 @@ function Password() {
   return (
     
         <form>
-            <input type={textType} name="password" placeholder='Password'onClick={(e)=>{
+            <input type={textType} name="password" placeholder='amit'onClick={(e)=>{
                 e.target.value
             }}/>
             
